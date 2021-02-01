@@ -1,3 +1,39 @@
+@font-face {
+  font-family: 'AT Osmose';
+  src: url('https://uploads-ssl.webflow.com/5f0b9fb2645840dcca4cc28f/5f1609ec2b0d64b420ff8194_AT%20Osmose%20Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: auto;
+}
+@font-face {
+  font-family: 'AT Osmose';
+  src: url('https://uploads-ssl.webflow.com/5f0b9fb2645840dcca4cc28f/5f1609ece0c43c69ff191b0b_AT%20Osmose%20Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+}
+@font-face {
+  font-family: 'Fakt Pro Blond';
+  src: url('https://uploads-ssl.webflow.com/5f0b9fb2645840dcca4cc28f/5f1609ec2b0d6464adff8195_FaktPro-Blond.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+}
+@font-face {
+  font-family: 'Fakt Pro Hair';
+  src: url('https://uploads-ssl.webflow.com/5f0b9fb2645840dcca4cc28f/5f1609ece0c43c84f1191b0c_FaktPro-Hair.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+}
+@font-face {
+  font-family: 'Fakt Pro';
+  src: url('https://uploads-ssl.webflow.com/5f0b9fb2645840dcca4cc28f/5f1609ecbf7ed620c8853a01_FaktPro-Normal.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+}
+
 #board_title, h1 {
     display: none;
 }
@@ -19,5 +55,5 @@ h3 {
 .location {
     font-family: 'Fakt Pro Blond',sans-serif;
     font-size: 16px;
-    line-height: 23px;
+    line-height: 36px;
 }
