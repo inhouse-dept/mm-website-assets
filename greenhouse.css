@@ -42,6 +42,10 @@ h3 {
     color: #fff;
 }
 
+section.level-0 {
+  display: flex;
+}
+
 .opening a {
     font-family: 'AT Osmose',sans-serif;
     font-weight: 700;
