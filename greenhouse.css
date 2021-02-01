@@ -79,3 +79,30 @@ section.level-0 {
     font-size: 16px;
     line-height: 36px;
 }
+
+@media only screen and (max-width: 991px) {
+  #wrapper {
+    width: 760px;
+  }
+  .opening {
+    width: 340px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+    #wrapper {
+    width: 680px;
+  }
+  .opening {
+    width: 300px;
+  }
+}
+
+@media only screen and (max-width: 478px) {
+    #wrapper {
+    width: 450px;
+  }
+  .opening {
+    width: auto;
+  }
+}
