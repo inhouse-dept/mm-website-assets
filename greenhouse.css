@@ -102,10 +102,10 @@ section.level-0 {
 }
 
 @media only screen and (max-width: 478px) {
-    #wrapper {
+  #wrapper {
     width: 350px;
   }
   .opening {
-    width: auto;
+    width: 350px;
   }
 }
