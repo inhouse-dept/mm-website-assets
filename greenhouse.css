@@ -96,11 +96,14 @@ section.level-0 {
   .opening {
     width: 300px;
   }
+  .opening a {
+    font-size: 18px;
+  }
 }
 
 @media only screen and (max-width: 478px) {
     #wrapper {
-    width: 450px;
+    width: 350px;
   }
   .opening {
     width: auto;
