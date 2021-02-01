@@ -36,7 +36,7 @@
 
 #wrapper {
   width: 940px;
-  padding: 0;
+  padding: 0 !important;
 }
 
 #board_title, h1 {
