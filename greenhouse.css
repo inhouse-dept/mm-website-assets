@@ -34,6 +34,10 @@
   font-display: auto;
 }
 
+#grnhse_iframe {
+  width: 1000px;
+}
+
 #board_title, h1 {
     display: none;
 }
@@ -44,6 +48,8 @@ h3 {
 
 section.level-0 {
   display: flex;
+  flex-wrap: wrap;
+  align-content: space-between;
 }
 
 .opening a {
