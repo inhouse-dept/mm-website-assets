@@ -34,8 +34,8 @@
   font-display: auto;
 }
 
-#grnhse_iframe {
-  width: 1000px;
+#wrapper {
+  width: 980px;
 }
 
 #board_title, h1 {
@@ -47,9 +47,15 @@ h3 {
 }
 
 section.level-0 {
-  display: flex;
-  flex-wrap: wrap;
-  align-content: space-between;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+}
+
+.opening {
+    line-height: 20px;
+    margin: 0 10px 60px 10px;
+    width: 464px;
 }
 
 .opening a {
@@ -61,7 +67,6 @@ section.level-0 {
     letter-spacing: -.24px;
     color: #fff;
 }
-
 
 .location {
     font-family: 'Fakt Pro Blond',sans-serif;
