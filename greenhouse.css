@@ -1,4 +1,4 @@
-#board_title {
+#board_title, h1 {
     display: none;
 }
 
@@ -13,4 +13,11 @@ h3 {
     line-height: 24px;
     letter-spacing: -.24px;
     color: #fff;
+}
+
+
+.location {
+    font-family: 'Fakt Pro Blond',sans-serif;
+    font-size: 16px;
+    line-height: 23px;
 }
