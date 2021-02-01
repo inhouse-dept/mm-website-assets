@@ -49,7 +49,6 @@ h3 {
 
 section.level-0 h3 {
   flex-basis: 100%;
-  margin-left: 10px;
 }
 
 section.level-0 {
@@ -60,7 +59,7 @@ section.level-0 {
 
 .opening {
     line-height: 20px;
-    margin: 0 10px 60px 10px;
+    margin: 0 10px 60px 0;
     width: 424px;
 }
 
