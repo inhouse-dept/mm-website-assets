@@ -47,6 +47,11 @@ h3 {
     color: #fff;
 }
 
+section.level-0 h3 {
+  flex-basis: 100%;
+  margin-left: 10px;
+}
+
 section.level-0 {
     display: flex;
     flex-wrap: wrap;
